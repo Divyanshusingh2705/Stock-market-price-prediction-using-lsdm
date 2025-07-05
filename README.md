@@ -1,1 +1,1 @@
-# Stock-market-price-prediction-using-lsdm
+STOCK MARKET PREDICTION USING LSTM MODEL
